@@ -1,3 +1,6 @@
 [submodule "Spatial-Operations-and-Image-Noise-Filtering"]
 	path = Spatial-Operations-and-Image-Noise-Filtering
 	url = git@github.com:amirmallak/Spatial-Operations-and-Image-Noise-Filtering.git
+[submodule "Image-Transformation-Using-Morphing-Sequence"]
+	path = Image-Transformation-Using-Morphing-Sequence
+	url = git@github.com:amirmallak/Image-Transformation-Using-Morphing-Sequence.git
