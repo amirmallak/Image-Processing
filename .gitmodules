@@ -4,3 +4,6 @@
 [submodule "Image-Transformation-Using-Morphing-Sequence"]
 	path = Image-Transformation-Using-Morphing-Sequence
 	url = git@github.com:amirmallak/Image-Transformation-Using-Morphing-Sequence.git
+[submodule "Image-Processing-with-SLT-Mapping"]
+	path = Image-Processing-with-SLT-Mapping
+	url = git@github.com:amirmallak/Image-Processing-with-SLT-Mapping.git
