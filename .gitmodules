@@ -7,3 +7,6 @@
 [submodule "Image-Processing-with-SLT-Mapping"]
 	path = Image-Processing-with-SLT-Mapping
 	url = git@github.com:amirmallak/Image-Processing-with-SLT-Mapping.git
+[submodule "Image-General-Filtering"]
+	path = Image-General-Filtering
+	url = git@github.com:amirmallak/Image-General-Filtering.git
