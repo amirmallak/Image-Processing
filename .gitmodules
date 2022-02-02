@@ -10,3 +10,6 @@
 [submodule "Image-General-Filtering"]
 	path = Image-General-Filtering
 	url = git@github.com:amirmallak/Image-General-Filtering.git
+[submodule "Detecting-Edges-and-Finding-Patterns"]
+	path = Detecting-Edges-and-Finding-Patterns
+	url = git@github.com:amirmallak/Detecting-Edges-and-Finding-Patterns.git
