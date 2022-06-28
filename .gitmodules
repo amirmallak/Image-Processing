@@ -13,3 +13,6 @@
 [submodule "Detecting-Edges-and-Finding-Patterns"]
 	path = Detecting-Edges-and-Finding-Patterns
 	url = git@github.com:amirmallak/Detecting-Edges-and-Finding-Patterns.git
+[submodule "Hough-Transform-on-Ellipses"]
+	path = Hough-Transform-on-Ellipses
+	url = git@github.com:amirmallak/Hough-Transform-on-Ellipses.git
