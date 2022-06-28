@@ -1,2 +1,2 @@
 # Image-Processing
-This directory includes all Image Processing Projects
+This directory includes all Image Processing and Computer Vision Projects
