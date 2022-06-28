@@ -16,3 +16,6 @@
 [submodule "Hough-Transform-on-Ellipses"]
 	path = Hough-Transform-on-Ellipses
 	url = git@github.com:amirmallak/Hough-Transform-on-Ellipses.git
+[submodule "Epipolar-Geometry"]
+	path = Epipolar-Geometry
+	url = git@github.com:amirmallak/Epipolar-Geometry.git
